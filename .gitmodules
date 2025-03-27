@@ -1,3 +1,6 @@
 [submodule "fire_spread"]
 	path = fire_spread
 	url = https://github.com/Kirirto-kun/fire_spread
+[submodule "flood_forecasting_by_AI_DisasterVision"]
+	path = flood_forecasting_by_AI_DisasterVision
+	url = https://github.com/Kirirto-kun/flood_forecasting_by_AI_DisasterVision

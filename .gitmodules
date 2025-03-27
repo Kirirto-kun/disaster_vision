@@ -4,3 +4,6 @@
 [submodule "flood_forecasting_by_AI_DisasterVision"]
 	path = flood_forecasting_by_AI_DisasterVision
 	url = https://github.com/Kirirto-kun/flood_forecasting_by_AI_DisasterVision
+[submodule "flood-sat-modelling"]
+	path = flood-sat-modelling
+	url = https://github.com/Kirirto-kun/flood-sat-modelling
